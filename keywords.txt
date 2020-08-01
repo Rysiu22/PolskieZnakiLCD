@@ -1,0 +1,17 @@
+#######################################
+# Syntax Coloring Map For Fader
+#######################################
+ 
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+PolskieZnaki	KEYWORD1
+ 
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+ 
+count	KEYWORD2
+create	KEYWORD2
+clear	KEYWORD2
